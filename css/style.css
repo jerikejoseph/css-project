@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+}
+div{
+    width: 200px;
+    height: 200px;
+}
+div{
+    css{}
+        display: inline;
+        padding: 15px;
+}
+.div1{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    background-color:#f53d6b;
+    padding:280px 770px;
+    
+}
+.child{
+    position: absolute;
+    border-radius: 100%;
+    background-color:#f54d6e;
+    top: 10.3%;
+    right: 4.4%;
+    padding: 277px;
+}
+.parent{
+    position: absolute;
+    height: 130%;
+    width: 70%;
+    padding: 10px;
+    top: 26.2%;
+    left: 55%;
+}
+img{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+}
+.son{
+    position: absolute;
+    color: white;
+    width:30% ;
+    top: 20%;
+    right:60% ;
+}
+.father{
+    position: absolute;
+    width: 30%;
+    top: 30%;
+    right: 60%;
+    color: white;
+}
+.mother{
+    position: absolute;
+    top: 55%;
+    right:81%;
+    background-color: white;
+    height:3%;
+    width: 8%;
+}
+.mom{
+    position: absolute;
+    height: 120%;
+    width: 33%;
+    padding: 10px;
+    top: 34%;
+    left: 70%;
+
+}
