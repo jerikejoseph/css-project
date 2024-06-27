@@ -22,7 +22,7 @@ li{
 }
 .parent{
     border:0.1% solid;
-    margin:.5px;
+    margin:0px;
     padding: 0px;
     min-height: 100vh;
     position: relative;
@@ -54,8 +54,6 @@ img{
 }
 .card{
     display: flex;
-    justify-content:space-evenly;
-    flex-direction: row;
     flex-wrap: wrap;
     
 }
@@ -79,8 +77,6 @@ img{
 
 .jerike{
     display:flex;
-    justify-content:space-evenly;
-    flex-direction: row;
     flex-wrap: wrap;
 }
 .joseph{
@@ -109,6 +105,54 @@ img{
     text-align:center;
     letter-spacing: 5px;
 }
+.aljo{
+    display: flex;
+    justify-content:space-around;
+    flex-direction:column;
+    width:20%;
+    height:10vh ; 
+    flex-wrap: wrap;  
+}
+.more{
+  
+    
+    display: flex;
+    border: 1px solid black;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin: 10px;
+    height:50vh ;
+    width:100% ;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    transform: translate(90px);
+    div{
+        margin:0.3%;
+      
+    }
+}
+   
+.pop{
+    width:100% ;
+    height:50% ;
+  flex-wrap: wrap;
+ 
+    
+       img{
+        width:100% ;
+        height:20vh;
+        border-radius: 10px;
+        object-fit: cover;
+        flex-wrap: wrap;
+       
+       }
+    
+}
+button{
+    margin:20px;
+    padding:10px 20px;
+    border:1px solid black;    
+}
+
 
 
 
