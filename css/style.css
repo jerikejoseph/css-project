@@ -1,19 +1,78 @@
-*{
+ *{
     margin: 0;
     padding: 0;
-}
-.parent{
+ }
+ .parent{
     width: 100%;
     height: 100vh;
-    background-color: pink;
+    background-color:pink;
     position: relative;
+ }
+ .child{
+       width:75%;
+       height: 75%;
+       position: absolute;
+       background-color: white;
+       top: 14%;
+       left: 13%;
+       display: grid;
+       flex-wrap: wrap;
+       grid-template-columns: repeat(2,50);
+       box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
 }
-.child{
-    width: 75%;
-    height: 75vh;
-    background-color: white;
+.pic1{
+    height: 5%;
+    width: 10%;
+    position:absolute;
+   
+    margin: 1%;
+    padding-left: 1%;
+}
+.pic2{
+    height: 55%;
+    width: 20%;
     position: absolute;
-    top:13%;
-    left: 15%;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    bottom: 27%;
+    left: 4%;
+    border-radius: 25px;
+}
+.mom{
+    margin: 2%;
+    padding-left: 15%;
+}
+a{
+    padding: 10px;
+    color: gray;
+    text-decoration: none;
+}
+.father{
+
+    height: 10%;
+    width: 10%;
+    margin: 1%;
+    position: absolute;
+    right: 15%;
+    top: 2%;
+    
+}
+.father img{
+    height: 40%;
+}
+.mother{
+    height: 10%;
+    width: 10%;
+    margin: 1%;
+    position: absolute;
+    right: 10%;
+    top: 1%;
+ 
+}
+.mother img{
+    height: 80%;
+}
+.sarath{
+    position: absolute;
+    top: 10%;
+    left: 1%;
+    
 }
