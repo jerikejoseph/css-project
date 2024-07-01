@@ -115,7 +115,7 @@ a{
 .price{
     display: flex;
     position: absolute;
-    top:54%;
+    top:64%;
     left: 44.6%;
     font-size: 40px;
 }
@@ -129,5 +129,13 @@ a{
     color: white;
     border: 1px solid black;
     border-radius: 10px;
+}
+.c-price{
+    display: flex;
+    position: absolute;
+    top: 110%;
+    font-size: 70%;
+    text-decoration: line-through;
+    color: rgb(49, 47, 47);
 }
 
