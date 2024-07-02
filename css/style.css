@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.son{
+    margin: 50px;
+}
+
+a{
+    text-decoration: none;
+    color:skyblue;
+    margin: 50px;
+}
+.pic1{
+    height: 50%;
+    width: 100%;
+    margin: 10px;
+    object-fit: cover;
+}
+.head1{
+    width: 40%;
+    margin: 10px;
+}
+button{
+    background-color:chocolate;
+    border: none;
+    height: 20%;
+    width: 20%;
+}
