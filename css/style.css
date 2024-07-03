@@ -2,35 +2,42 @@
     margin: 0;
     padding: 0;
 }
-
-.container{
-    width: 100%;
-    height: 100%;
+.nav{
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
+    margin: 60px;
 }
-.son{
-    margin: 50px;
+ul{
+    display: flex;
 }
-
-a{
-    text-decoration: none;
-    color:skyblue;
-    margin: 50px;
+li{
+    margin: 20px;
+    list-style:none;
+}
+.left{
+    margin-left: 250px;
+}
+.right{
+    margin-right: 230px;
 }
 .pic1{
-    height: 50%;
     width: 100%;
-    margin: 10px;
+    height: 100%;
     object-fit: cover;
 }
-.head1{
-    width: 40%;
-    margin: 10px;
-}
 button{
-    background-color:chocolate;
     border: none;
+    background-color: chocolate;
     height: 20%;
-    width: 20%;
+    width: 45%;
+}
+.pic2{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.p2{
+    width: 100%;
+    font-size: 20px;
 }
