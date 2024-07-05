@@ -7,20 +7,84 @@
     margin-left: 40px;
     font-size: 14px;
     list-style: none;
+    margin-top: 10px;
 }
 
 .head1{
     font-size: 12px;
+    margin-top: 10px;
 }
 .head2{
     text-decoration:underline;
     font-size: 15px;
+    margin-top: 10px;
 }
 .pic3{
-      padding-top: 10px;
+     margin-top: 10px;
+     padding: 3px;
 }
 .head3{
     font-size: 15px;
+    margin: 10px;
+    width: 5px;  
+}
+.pic4{
+    width: 25%;
+    height: 25%;
+    object-fit: cover;
+    margin-left: 40px;
+}
+.pic5{
     margin-top: 10px;
-    margin-left: 30px;
+    padding: 3px;
+}
+.head4{
+    font-size: 15px;
+    margin: 10px;
+    
+}
+.pic6{
+    margin-top: 10px;
+    padding: 3px;
+}
+.head5{
+    
+    font-size: 15px;
+    margin: 10px; 
+}
+.head6{
+    font-size: 15px;
+    margin: 10px; 
+}
+}
+.pic7{
+    margin-top: 10px;
+    padding: 3px;
+}
+.pic8{
+    margin-top: 20px;
+    padding: 3px;
+}
+.pic9{
+    width: 100%%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.pic10{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.card{
+    width: 200px;
+    height:200px ;
+    border-radius:100px ;
+    margin-top: 30px;
+}
+.pic11{
+    width: 100%;
+    height: 100%;
+    border-radius: 100px;
+    object-fit: cover;
 }
