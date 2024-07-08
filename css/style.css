@@ -274,7 +274,7 @@ body {
     height: 600px;
     width: 600px;
     margin-left: 30px;
-    margin-top: 30px;
+    margin-top: 50px;
    position: relative;
 }
 .mern{
@@ -284,5 +284,36 @@ body {
 }
 .mern2{
     position: absolute;
-     bottom: -150%;
+    margin-left:650px ;
+    width: 30%;
+    height: 100%;
+    
+}
+.text1{
+    margin-top: 60px;
+   margin-left:640px;
+}
+.text1 a{
+  color:darkblue;
+  text-decoration: none;
+  margin: 60px;
+  
+}
+.card3 {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 30px;
+    overflow: hidden;
+    height: 50vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.card3 img {
+    
+    height: auto;
+
 }
