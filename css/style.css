@@ -132,9 +132,15 @@ body {
     border-radius:100px ;
     margin-top: 10px;
 }
+.pic18{
+    width:100%;
+    height:22vh;
+    border-radius: 100px;
+    object-fit: fill;
+}
 .pic11{
     width:100%;
-    height:100%;
+    height:30vh;
     border-radius: 100px;
     object-fit: fill;
 }
@@ -273,22 +279,54 @@ body {
 .mern{
     height: 600px;
     width: 600px;
-    margin-left: 30px;
+    margin-left: 80px;
     margin-top: 50px;
+   display: flex;
    position: relative;
+
 }
-.mern{
+.mern1{
     height: 100%;
-    width: 100%;
+    width: 600px;
     object-fit: cover;
-}
-.mern2{
-    position: absolute;
-    margin-left:650px ;
-    width: 30%;
-    height: 100%;
+    display: flex
     
 }
+.mern2{
+    display: flex;
+    width: 900px;
+    height: 100%;
+    margin-left: 400px;
+    
+}
+.mern3{
+    display: flex;
+    background-color: black;
+    color: white;
+    width: 100%;
+    height: 80vh%;
+    left:90%;
+    top:20%;
+    position: absolute;
+
+}
+
+.mern4{
+      margin-top: 10px;
+      margin-left: ;
+}
+.button2{
+    display: flex;
+    margin-top: 100px;
+    margin-right: 00px;
+}
+.button1{
+    margin-top: 40px;
+    padding: 10px;
+    margin-left: 5px;
+
+}
+
 .text1{
     margin-top: 60px;
    margin-left:640px;
@@ -299,21 +337,15 @@ body {
   margin: 60px;
   
 }
-.card3 {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin: 30px;
-    overflow: hidden;
-    height: 50vh;
-    width: 100%;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    
+.scroll-container{
+    background-color:white;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    margin-top: 40px;
 }
-.card3 img {
-    
-    height: auto;
-
+.scroll-container img{
+    width: 30%;
+    height: 80vh;
+    padding: 10px;
 }
