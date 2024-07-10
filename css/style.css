@@ -364,11 +364,31 @@ body {
     white-space: nowrap;
     padding: 10px;
     margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
-.scroll-container1 img{
-    width: 400px;
-    height: 70vh;
+.mern4{
+    color: white;
+    margin-top: 10px;
+}
+.mern5{
+    color: white;
+    font-size: 23px;
+
+}
+.mern6{
+    color: white;
     padding: 10px;
+
+}
+.mern7{
+    text-decoration:  line-through;
+    padding: 10px;
+}
+.java1{
+    
+   padding: 10px;
 }
 .pop{
     margin-top: 3%;
@@ -386,7 +406,7 @@ body {
     margin-left: 50px;
 }
 .fog{
-    background-color: blue;
+    background-color: rgb(13, 13, 68);
     height: 65vh;
     width: 100vw;
     margin-top: 55px;
@@ -416,4 +436,10 @@ body {
     height: 50vh;
     padding: 10px;
     object-fit: cover;
+}
+
+.mern11 img{
+    width: 100vw;
+    max-height: 40vh;
+    margin-top: 30px;
 }
