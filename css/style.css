@@ -366,7 +366,54 @@ body {
     margin-top: 40px;
 }
 .scroll-container1 img{
+    width: 400px;
+    height: 70vh;
+    padding: 10px;
+}
+.pop{
+    margin-top: 3%;
+    margin-left: 38%;
+}
+.pop a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+}
+.green{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 50px;
+}
+.fog{
+    background-color: blue;
+    height: 65vh;
+    width: 100vw;
+    margin-top: 55px;
+}
+.fog1{
+    width: 100%;
+    height: 49vh;
+}
+.fog2{
+    margin-top: 3%;
+    margin-left: 36%;
     width: 30%;
+}
+.goat{
+    text-align: center;
+    text-decoration: underline yellow;
+    color: white;
+}
+.snake{
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+    margin-top: 40px;
+}
+.snake img{
+    width: 25%;
     height: 50vh;
     padding: 10px;
+    object-fit: cover;
 }
