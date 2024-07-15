@@ -446,7 +446,7 @@ body {
 }
 .mern17{
     position: absolute;
-    top:4580px;
+    top:4980px;
     right: 10%;
     background-color: yellow;
     width: 550px;
@@ -566,13 +566,15 @@ margin-left:20px;
     border: none;
     width: 500px;
     height: 60px;
-    padding-top: 20px;
+    padding-top: 10px;
     border-radius: 5px;
+    margin-left: 200px;
 }
 .mern40{
     display: flex;
     flex-direction: row;
     margin-top: 40px;
+    margin-left: 100px;
 }
 .mern41{
     margin-left: 300px;
@@ -585,4 +587,69 @@ margin-left:20px;
 }
 .mern44{
     margin-left: 350px;
+}
+.mern45{
+    margin-left: 25px;
+}
+.mern46{
+    margin-top: -20px;
+    margin-left: 1px;
+    color: black;
+    font-size: 12px;
+}
+.mern47{
+    margin-left: 350px;
+}
+.mern48{
+    margin-left: 55px;
+}
+.mern49{
+    margin-top: -20px;
+    margin-left: 1px;
+    color: black;
+    font-size: 12px;
+}
+.line{
+    border-top:1px solid black;
+    border-bottom: 1px solid black;
+    width: 100%;
+    height: 250px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 60px;
+}
+.hl{
+    width: 100px;
+    height: ;
+}
+.community{
+    margin-left: 300px;
+}
+.about{
+    margin-left: 150px;
+}
+.need{
+    margin-left: 100px;
+}
+.a16{
+    margin-top: 15px;
+
+}
+.bla{
+    padding: 35px;
+}
+.b1{
+    margin-top: 15px;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.l{
+    margin-left: 20px;
 }
