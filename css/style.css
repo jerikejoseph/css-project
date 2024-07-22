@@ -121,10 +121,235 @@ background-color: white;
     text-align: center;
     color: rgb(43, 42, 42);
 }
-.mern20{
+/*.mern20{
     border: 1px solid black;
     border-radius: 50px;
     width: 20%;
     height: 100%;
     margin: 10px;
+}*/
+.mern21{
+    width: 100%;
+    height: 90vh;
+    position: relative;
+    background-color:wheat;
+    margin-top: 10%;
+}
+.mern22{
+    position: absolute;
+    top: 8%;
+    left: 5%;
+}
+.mern23{
+    position: absolute;
+    top: 14%;
+    left: 5%;
+    font-size: 20px;
+}
+.mern24{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 50px;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+}
+.mern25{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.mern26{
+    background-color: black;
+    color: white;
+    width: 250px;
+    height: 50px;
+    position: absolute;
+    top: 20%;
+    left: 15%;
+}
+.mern27{
+    position: absolute;
+    right: 4%;
+    top: -10%;
+    width: 50%;
+    height: 120%;
+}
+.mern27 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.mern28{
+    position: absolute;
+    left:3%; 
+    
+    bottom:-6%;
+    width:50%;
+    height:70%;
+}
+.mern28 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.mern29{
+    position: relative;
+    margin-top: 10%;
+}
+.mern30{
+    position: absolute;
+    width: 100%;
+}
+.mern31{
+    position: absolute;
+    color: white;
+    top:100px;
+    left: 11%;
+}
+.mern32{
+    position: absolute;
+    color: white;
+    top: 160px;
+    left: 11%;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.mern33{
+    position: absolute;
+    background-color: white;
+    color: black;
+    border: none;
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    top: 230px;
+    left: 200px;
+}
+.mern34{
+    position: relative;
+    margin-top: 49%;
+}
+.mern35{
+    position:absolute;
+    width: 100%;
+}
+.mern36{
+    position: absolute;
+    color: white;
+    top: 150px;
+    left: 50px;
+    font-size: 40px;
+}
+.mern37{
+    position: absolute;
+    color: white;
+    top: 210px;
+    left: 140px;
+}
+.mern38{
+    position: absolute;
+    color: white;
+    top: 250px;
+    left: 230px;
+    font-size: 15px;
+}
+.mern39{
+    position: absolute;
+    top: 300px;
+    left: 220px;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    border: none;
+}
+.mern40{
+    position: relative;
+    margin-top: 87%;
+}
+.mern41{
+    position: absolute;
+    width: 100%;
+}
+.mern42{
+    position: absolute;
+    color: white;
+    top: 200px;
+    left: 50px;
+}
+.mern43{
+    position: absolute;
+    color: white;
+    top: 260px;
+    left: 130px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mern44{
+    position: absolute;
+    top: 300px;
+    left: 150px;
+    width: 150px;
+    height: 50px;
+    border: none;
+    font-size: 20px;
+}
+.mern45{
+    position: relative;
+    margin-top: 126%;
+}
+.mern46{
+    position: absolute;
+    width: 100%;
+}
+.mern47{
+    position: absolute;
+    color: white;
+    top: 170px;
+    left: 100px;
+    font-size: 50px;
+}
+.mern48{
+    position: absolute;
+    color: white;
+    top: 240px;
+    left: 150px;
+}
+.mern49{
+    position: absolute;
+    top: 280px;
+    left: 150px;
+    width: 150px;
+    height:40px;
+    font-size: 20px;
+}
+.mern50{
+    position: relative;
+    margin-top: 166%;
+}
+.mern51{
+    position: absolute;
+    width: 100%;
+}
+.mern52{
+    position: absolute;
+    color: white;
+    top: 150px;
+    left: 100px;
+    font-size: 50px;
+}
+.mern53{
+    position: absolute;
+    color: white;
+    top: 230px;
+    font-size: 20px;
+    left: 180px;
+}
+.mern54{
+    position: absolute;
+    top: 280px;
+    left: 210px;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    border: none;
 }
