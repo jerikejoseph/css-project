@@ -59,7 +59,7 @@
     position: relative;
 }
 .mern9{
-    width: 99vw;
+    width: 100%;
 }
 .mern10{
     position: absolute;
@@ -162,7 +162,7 @@ background-color: white;
 .mern26{
     background-color: black;
     color: white;
-    width: 250px;
+    width: 290px;
     height: 50px;
     position: absolute;
     top: 20%;
@@ -352,4 +352,57 @@ background-color: white;
     height: 40px;
     font-size: 20px;
     border: none;
+}
+.mern55{
+    position: relative;
+    margin-top: 205%;
+}
+.mern56{
+    position: absolute;
+    width: 100%;
+}
+.mern57{
+    position: absolute;
+    color: white;
+    top: 230px;
+    left: 100px;
+    font-size: 40px;
+}
+.mern58{
+    position: absolute;
+    color: white;
+    top: 280px;
+    left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.mern59{
+    position: absolute;
+    color: white;
+    top: 310px;
+    left: 100px;
+}
+.mern60{
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    width: 150px;
+    height: 40px;
+    border: none;
+    font-size: 20px;
+}
+.mern61{
+    position: relative;
+    margin-top: 244%;
+}
+.mern62{
+    position: absolute;
+    width: 100%;
+}
+.mern63{
+    position: absolute;
+    color: white;
+    left: 100px;
+    top: 300px;
+    width: 250px;
 }
